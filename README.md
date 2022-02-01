@@ -4,7 +4,8 @@ Disentangle spatial correlations from hyperspectral data sets using the basis of
 The *multichannel* rVAE is introduced here, where multiple channels are used with the rVAE neural network to learn spatial features contained in the data.
 Channels are broadly defined, but are typically that of energy or wavelength, for example, RGB is a 3-channel image or an EELS image is something like a 2048-channel image (# of energy pixels).
 This is demonstrated on STEM-EELS images in the following notebook:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/kevinroccapriore/Multichannel-rVAE/blob/main/Multilchannel_rVAE_EELS.ipynb]
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinroccapriore/Multichannel-rVAE/blob/main/Multilchannel_rVAE_EELS.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
