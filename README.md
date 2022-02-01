@@ -7,4 +7,4 @@ This is demonstrated on STEM-EELS images in the following notebook:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinroccapriore/Multichannel-rVAE/blob/main/Multilchannel_rVAE_EELS.ipynb)
 
-In princple, these channels could even be snapshots in time from the same physical channel, however this has not been explored.
+In principle, these channels could even be snapshots in time from the same physical channel, however this has not been explored.
