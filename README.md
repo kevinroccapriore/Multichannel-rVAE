@@ -8,3 +8,5 @@ This is demonstrated on STEM-EELS images in the following notebook:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinroccapriore/Multichannel-rVAE/blob/main/Multilchannel_rVAE_EELS.ipynb)
 
 In principle, these channels could even be snapshots in time from the same physical channel, however this has not been explored.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10449468.svg)](https://doi.org/10.5281/zenodo.10449468)
